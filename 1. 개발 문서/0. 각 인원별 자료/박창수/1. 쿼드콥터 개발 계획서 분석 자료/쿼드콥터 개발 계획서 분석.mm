@@ -1,7 +1,7 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1367647523218" ID="ID_1040345280" MODIFIED="1367647535452" TEXT="&#xcffc;&#xb4dc;&#xcf65;&#xd130; &#xac1c;&#xbc1c; &#xacc4;&#xd68d;&#xc11c; &#xbd84;&#xc11d;">
-<node CREATED="1367647538142" ID="ID_455123610" MODIFIED="1367653721985" POSITION="right" TEXT="1. &#xd558;&#xb4dc;&#xc6e8;&#xc5b4;">
+<node CREATED="1367647538142" FOLDED="true" ID="ID_455123610" MODIFIED="1367654100106" POSITION="right" TEXT="1. &#xd558;&#xb4dc;&#xc6e8;&#xc5b4;">
 <node CREATED="1367647541148" ID="ID_739434450" MODIFIED="1367653805454" TEXT="1. &#xcffc;&#xb4dc;&#xcf65;&#xd130; &#xbcf8;&#xccb4;( AVR. &#xbcf4;&#xc870;&#xbcf4;&#xb4dc;)">
 <node CREATED="1367648035985" ID="ID_338366302" MODIFIED="1367653716158" TEXT="1. AVR&#xc774;&#xb780; ?">
 <node CREATED="1367649342372" ID="ID_1980689161" MODIFIED="1367649356814" TEXT="1. &#xb9c8;&#xc774;&#xd06c;&#xb85c; &#xd504;&#xb85c;&#xc138;&#xc11c; &#xc720;&#xb2db;. MPU"/>
@@ -105,7 +105,7 @@
 </node>
 <node CREATED="1367651375017" ID="ID_1373180059" MODIFIED="1367651544572" TEXT="4. &#xc5c5;&#xbb34; &#xbd84;&#xb2f4;"/>
 </node>
-<node CREATED="1367653646017" FOLDED="true" ID="ID_1874645076" MODIFIED="1367653815998" POSITION="right" TEXT="3. &#xd574;&#xc57c;&#xd560; &#xc77c;">
+<node CREATED="1367653646017" ID="ID_1874645076" MODIFIED="1367654102983" POSITION="right" TEXT="3. &#xd574;&#xc57c;&#xd560; &#xc77c;">
 <node CREATED="1367653649257" ID="ID_256409100" MODIFIED="1367653684152" TEXT="1. &#xac01; &#xbaa8;&#xb4c8; &#xbcc4; &#xc138;&#xbbf8;&#xb098; &#xd544;&#xc694;&#xd558;&#xc9c0; &#xc54a;&#xc744;&#xae4c;? &#xc644;&#xc804; &#xc790;&#xc138;&#xd558;&#xac8c;(&#xb2e8;&#xc810;&#xc744; &#xbcf4;&#xc644;&#xd558;&#xae30;&#xc704;&#xd55c; &#xc54c;&#xace0;&#xb9ac;&#xc998;&#xb4e4;&#xc5d0; &#xb300;&#xd574;&#xc11c;&#xb3c4;)"/>
 </node>
 </node>
